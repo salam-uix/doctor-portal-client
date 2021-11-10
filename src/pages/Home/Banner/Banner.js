@@ -4,7 +4,7 @@ import Grid from '@mui/material/Grid';
 import chair from '../../../images/chair.png'
 import bg from '../../../images/bg.png'
 import { Button, Container, Typography } from '@mui/material';
-import { textAlign } from '@mui/system';
+
 
 const bannerBg = {
     backgroung: `url(${bg})`,
